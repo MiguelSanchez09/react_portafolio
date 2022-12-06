@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+.App {
+  text-align: center;
+  background-color: #E4F2E7;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  user-select: none;
+}
+
+.container{
+  min-height: 70vh;
+}
+
+.container h2{
+  letter-spacing: 5px;
+  color:#343838;
+  font-family: 'Fjalla One', sans-serif;
+}
